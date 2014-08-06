@@ -1,0 +1,12 @@
+<!DOCTYPE piklab>
+<piklab>
+  <general>
+    <device>16F628A</device>
+    <tool>sdcc</tool>
+    <programmer>custom</programmer>
+    <files>
+      <item>ps2_2_uart.c</item>
+      <item>tsmtypes.h</item>
+    </files>
+  </general>
+</piklab>
